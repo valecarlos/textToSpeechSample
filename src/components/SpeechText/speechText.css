@@ -1,0 +1,16 @@
+.textarea-holder{
+    position: relative;
+}
+
+.textarea-holder svg{
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    width: 22px;
+    cursor: pointer;
+    fill: rgb(214, 214, 214);
+}
+
+.textarea-holder textarea{
+    width: 100%;
+}
