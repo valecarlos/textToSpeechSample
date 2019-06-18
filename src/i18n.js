@@ -11,7 +11,8 @@ const resources = {
       "seeding title": "Seeding",
       "seeding task 1": "Amet qui excepteur consequat ullamco proident ipsum est cupidatat.",
       "irrigation title": "Irrigation",
-      "irrigation task 1": "Aliqua aute quis esse aliqua eu dolore Lorem deserunt aute culpa."
+      "irrigation task 1": "Aliqua aute quis esse aliqua eu dolore Lorem deserunt aute culpa.",
+      "Add notes": "Add notes"
     }
   },
   'de-DE': {
@@ -23,7 +24,8 @@ const resources = {
       "seeding title": "Aussaat",
       "seeding task 1": "Sunt irure do nostrud fugiat laborum id irure tempor nulla ea quis eu aliquip.",
       "irrigation title": "Bewässerung",
-      "irrigation task 1": "Officia enim non incididunt enim sint officia ea adipisicing id exercitation laborum et id."
+      "irrigation task 1": "Officia enim non incididunt enim sint officia ea adipisicing id exercitation laborum et id.",
+      "Add notes": "Notizen hinzufügen"
     }
   },
   'pt-BR': {
@@ -35,7 +37,8 @@ const resources = {
       "seeding title": "Semeando",
       "seeding task 1": "Commodo cillum voluptate in non dolore enim reprehenderit ullamco commodo do velit id laborum magna.",
       "irrigation title": "Irrigação",
-      "irrigation task 1": "Eiusmod minim id amet do sint elit dolore laboris sit aliqua elit."
+      "irrigation task 1": "Eiusmod minim id amet do sint elit dolore laboris sit aliqua elit.",
+      "Add notes": "Adicionar notas"
     }
   }
 };

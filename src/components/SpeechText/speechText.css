@@ -9,8 +9,15 @@
     width: 22px;
     cursor: pointer;
     fill: rgb(214, 214, 214);
+    transition: all 0.15s ease-in-out;
 }
 
 .textarea-holder textarea{
     width: 100%;
+    font-size: 14px;
+    padding: 5px;
+}
+
+.textarea-holder .listening{
+    fill: rgb(0, 226, 139);
 }
