@@ -1,7 +1,7 @@
 import React from 'react';
-import TextSpeech from './components/TextSpeech';
+import TextSpeech from './components/TextSpeech/TextSpeech';
 import { withTranslation } from 'react-i18next';
-import LocaleSwitch from './components/LocaleSwitch';
+import LocaleSwitch from './components/LocaleSwitch/LocaleSwitch';
 import SpeechText from './components/SpeechText/SpeechText';
 
 function MyTitle({ t }){

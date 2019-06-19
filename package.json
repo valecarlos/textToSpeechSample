@@ -2,7 +2,7 @@
   "name": "speechtext",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://valecarlos.github.io/speechtext",
+  "homepage": "https://valecarlos.github.io/textToSpeechSample",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "i18next": "^17.0.3",
